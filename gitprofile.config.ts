@@ -74,7 +74,7 @@ const CONFIG = {
     telegram: '',
     website: '',
     phone: '',
-    email: 'haoder.dev@gmail.com',
+    email: 'aaron-chuang@haoder.dev',
   },
   resume: {
     fileUrl:
@@ -228,11 +228,15 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
+  footer: `Made from <a 
       class='text-primary' href='https://github.com/arifszn/gitprofile'
       target='_blank'
       rel='noreferrer'
-    >GitProfile</a> and ❤️`,
+    >GitProfile</a> and modify by <a 
+      class='text-primary' href='https://github.com/ADSFAaron'
+      target='_blank'
+      rel='noreferrer'
+    >ADSFAaron</a>`,
 
   enablePWA: true,
 };
